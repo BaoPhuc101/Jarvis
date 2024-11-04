@@ -45,7 +45,7 @@ $(document).ready(function () {
         
         $("#SiriWave").attr("hidden", false);
     
-        eel.take_command()
+        eel.all_command()
 
     });
 
