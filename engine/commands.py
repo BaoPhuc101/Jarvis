@@ -48,6 +48,6 @@ def all_command():
         from engine.features import playYouTube
         playYouTube(query)
     else:
-        print("Not Run")
+        print("Not run!")
 
     eel.ShowHood()
